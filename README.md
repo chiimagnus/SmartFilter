@@ -6,3 +6,6 @@ An AI-powered screen management plugin, When you are in a work scene, it can hel
 
 ## Developer
 - Chii Magnus
+
+## Similar Projects
+- https://github.com/jam3scampbell/ProctorAI
